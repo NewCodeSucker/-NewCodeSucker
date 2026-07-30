@@ -1,4 +1,4 @@
-# Hi, I'm YOUR NAME 👋
+# Hi, I am Whatcharaphon Kantadet 👋
 
 Aspiring Full Stack Developer • Information Technology Student
 
