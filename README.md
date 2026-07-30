@@ -70,7 +70,7 @@ A web-based management system developed to support collaboration between potato 
 
 ---
 
- ##📚 Activities and Training
+ ## 📚 Activities and Training
  
 | Course | Provider | Skills |
 |---------|----------|--------|
