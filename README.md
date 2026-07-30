@@ -33,8 +33,7 @@ Aspiring Full Stack Developer • Information Technology Student
 | Project | Tech Stack | Highlights | Links |
 |---|---|---|---|
 | Potato Farmer and Broker Management System | Java, Spring Boot, JSP, MySQL, Bootstrap | Web application for managing farmers, brokers, cultivation cycles, farmland registration, requisitions, resource allocation, and production reports | [Repository](ใส่ลิงก์โปรเจกต์) |
-| Smart Farm IoT System | IoT, Sensors, Microcontroller, Mobile Application | Monitors temperature, humidity, soil moisture, and controls irrigation automatically through a smartphone | [Project Details](ใส่ลิงก์) |
-| AI Market and Product Analysis Workshop | AI Tools, Market Analysis, Product Design | Applied AI tools to analyze customer needs and support product and service design | [Certificate](ใส่ลิงก์หรือรูปใบประกาศ) |
+
 
 ---
 
