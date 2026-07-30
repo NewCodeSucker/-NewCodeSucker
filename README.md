@@ -21,11 +21,12 @@ Aspiring Full Stack Developer • Information Technology Student
 <div align="center">
 
 | Domain | Primary | Comfortable | Currently Exploring |
-|---|---|---|---|
-| Front-end | HTML, CSS, Bootstrap, JSP | JavaScript | React |
-| Back-end | Java, Spring Boot, Spring MVC | Hibernate, JPA | REST API |
-| Database | MySQL | Oracle SQL | Database Optimization |
-| Tools | Git, GitHub, Eclipse, MySQL Workbench | Figma, Postman | Docker |
+|---------|----------|-------------|---------------------|
+| Front-end | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![JSP](https://img.shields.io/badge/JSP-4CAF50?logo=apachetomcat&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
+| Back-end | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/SpringMVC-6DB33F?logo=spring&logoColor=white) | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-6DB33F?logo=spring&logoColor=white) | ![REST API](https://img.shields.io/badge/REST_API-005571?logo=fastapi&logoColor=white) |
+| Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) | ![Database Optimization](https://img.shields.io/badge/Optimization-4285F4?logo=googlecloud&logoColor=white) |
+| Tools | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?logo=mysql&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+| AI & Productivity | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?logo=githubcopilot&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=googlegemini&logoColor=white) | ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?logo=googlesheets&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) |
 
 </div>
 
