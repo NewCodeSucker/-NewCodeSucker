@@ -13,7 +13,7 @@ Aspiring Full Stack Developer • Information Technology Student
 - 🌱 I'm currently improving my skills in REST API, React, and modern web development
 - 🤖 I have experience using AI tools for software development, market analysis, and product design
 - 🎯 My goal is to gain practical experience as a Full Stack Developer intern
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: whatcharaphon2311@gmail.com
 
 ---
 
