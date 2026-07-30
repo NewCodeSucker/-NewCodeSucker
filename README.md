@@ -78,7 +78,7 @@ A web-based management system developed to support collaboration between potato 
 | ChatGPT for Developers | Online Course | AI-assisted Development, Prompt Engineering, Debugging |
 | Agile Software Development | Workshop | Scrum, Team Collaboration |
 | AI for Market Analysis | Workshop | AI Tools, Product & Service Design |
-| Smart Farm IoT | Training Project | IoT, Sensors, Automation |
+
 
 
 ---
