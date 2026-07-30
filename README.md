@@ -70,7 +70,7 @@ A web-based management system developed to support collaboration between potato 
 
 ---
 
-## 📜 Certificates & Training
+## 📜Training
 
 | Course | Provider | Skills |
 |---------|----------|--------|
@@ -81,6 +81,13 @@ A web-based management system developed to support collaboration between potato 
 
 
 
+---
+
+## 📜 Certificates
+
+- 📄 [API 101 Certificate](certificates/api-101-certificate.pdf)
+- 📄 [ChatGPT for Developers Certificate](certificates/chatgpt-for-developers.pdf)
+  
 ---
 
 ## 📈 GitHub Stats
