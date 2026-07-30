@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="header image" />
+  <img src="assets/banner.png" alt="header image" />
 </p>
 
 <h1 align="center">Hi, I’m Whatcharaphon Kantadet <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
