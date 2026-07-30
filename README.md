@@ -1,73 +1,88 @@
-<!-- Banner / Cover -->
-<p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
-</p>
+# Hi, I'm YOUR NAME 👋
 
-<h1 align="center">Hi, I’m ⟪YOUR NAME⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+Aspiring Full Stack Developer • Information Technology Student
 
-<p align="center">
-  <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
-  <em>“Turning ideas into delightful, scalable software.”</em>
-</p>
+> Passionate about building practical web applications that solve real-world problems.
 
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+
+- 🎓 I'm an Information Technology student interested in Full Stack Development
+- 💻 I enjoy developing web applications using Java, Spring Boot, JSP, and MySQL
+- 🌱 I'm currently improving my skills in REST API, React, and modern web development
+- 🤖 I have experience using AI tools for software development, market analysis, and product design
+- 🎯 My goal is to gain practical experience as a Full Stack Developer intern
+- 📫 Reach me: your-email@example.com
 
 ---
 
 ## 🧰 Tech Stack & Tools
-<div align="center">
 
 | Domain | Primary | Comfortable | Currently Exploring |
-|--------|---------|-------------|---------------------|
-| Front-end | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white) |
-| Back-end | ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
-| Data | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![DuckDB](https://img.shields.io/badge/DuckDB-FFC700?logoColor=000) |
-| DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
-
-</div>
+|---|---|---|---|
+| Front-end | HTML, CSS, Bootstrap, JSP | JavaScript | React |
+| Back-end | Java, Spring Boot, Spring MVC | Hibernate, JPA | REST API |
+| Database | MySQL | Oracle SQL | Database Optimization |
+| Tools | Git, GitHub, Eclipse, MySQL Workbench | Figma, Postman | Docker |
 
 ---
 
 ## 📌 Featured Projects
-| Project | Tech | Highlights | Links |
-|---------|------|-----------|-------|
-| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
-| **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
 
-_Add 2–4 projects max. Each row should fit on one screen._
+| Project | Tech Stack | Highlights | Links |
+|---|---|---|---|
+| Potato Farmer and Broker Management System | Java, Spring Boot, JSP, MySQL, Bootstrap | Web application for managing farmers, brokers, cultivation cycles, farmland registration, requisitions, resource allocation, and production reports | [Repository](ใส่ลิงก์โปรเจกต์) |
+| Smart Farm IoT System | IoT, Sensors, Microcontroller, Mobile Application | Monitors temperature, humidity, soil moisture, and controls irrigation automatically through a smartphone | [Project Details](ใส่ลิงก์) |
+| AI Market and Product Analysis Workshop | AI Tools, Market Analysis, Product Design | Applied AI tools to analyze customer needs and support product and service design | [Certificate](ใส่ลิงก์หรือรูปใบประกาศ) |
 
 ---
 
-## ✍🏻 Recent Blog / Talks
-<!-- GH Action can automate this section; placeholder for manual list -->
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
-- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
+## 💻 Featured Project Details
+
+### 🥔 Potato Farmer and Broker Management System
+
+A web-based management system developed to support collaboration between potato farmers and brokers.
+
+**Main Features**
+
+- Farmer and broker authentication
+- Crop-cycle creation and registration
+- Farmland management
+- Seed potato and fertilizer allocation
+- Requisition approval and rejection
+- Farming-progress reporting
+- Production-cost and yield summaries
+- Notifications between farmers and brokers
+
+**Technologies**
+
+`Java` `Spring Boot` `Spring MVC` `JSP` `Hibernate` `JPA` `MySQL` `Bootstrap`
+
+---
+
+## 📚 Activities and Training
+
+- Participated in Agile software development activities
+- Attended training on applying AI to market analysis
+- Used AI tools for product and service design
+- Developed a Smart Farm IoT training project for local farmers
+- Practiced collaborative software development and problem-solving
 
 ---
 
 ## 📈 GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
-## 🤝 Let’s Connect
-> **“Great products are built by great people working together.”**
+## 🤝 Let's Connect
 
-- 💌 Email: ⟪email@example.com⟫  
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
-- 🐦 DM me on [X/Twitter](⟪url⟫)
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [Your LinkedIn](ใส่ลิงก์ LinkedIn)
+- 🧑‍💻 GitHub: [Your GitHub](https://github.com/YOUR_USERNAME)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
-</p>
+> I'm currently looking for an internship opportunity as a Full Stack Developer.
