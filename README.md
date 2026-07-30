@@ -42,7 +42,7 @@
 
 | Project | Tech Stack | Highlights | Links |
 |---|---|---|---|
-| Potato Farmer and Broker Management System | Java, Spring Boot, JSP, MySQL, Bootstrap | Web application for managing farmers, brokers, cultivation cycles, farmland registration, requisitions, resource allocation, and production reports | [Repository]((https://github.com/NewCodeSucker/Potato-Farmer-and-Broker-Management-System/blob/main/README.md)) |
+| Potato Farmer and Broker Management System | Java, Spring Boot, JSP, MySQL, Bootstrap | Web application for managing farmers, brokers, cultivation cycles, farmland registration, requisitions, resource allocation, and production reports | [Repository](https://github.com/NewCodeSucker/Potato-Farmer-and-Broker-Management-System/blob/main/README.md) |
 
 
 ---
