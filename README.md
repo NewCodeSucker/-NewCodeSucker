@@ -80,8 +80,6 @@ A web-based management system developed to support collaboration between potato 
 
 ## 🤝 Let's Connect
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [Your LinkedIn](ใส่ลิงก์ LinkedIn)
-- 🧑‍💻 GitHub: [Your GitHub](https://github.com/YOUR_USERNAME)
+- 📧 Email: whatcharaphon2311@gmail.com
 
-> I'm currently looking for an internship opportunity as a Full Stack Developer.
+
