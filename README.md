@@ -18,7 +18,7 @@ Aspiring Full Stack Developer • Information Technology Student
 ---
 
 ## 🧰 Tech Stack & Tools
-<div ailgn="center">
+<div align="center">
 | Domain | Primary | Comfortable | Currently Exploring |
 |---|---|---|---|
 | Front-end | HTML, CSS, Bootstrap, JSP | JavaScript | React |
