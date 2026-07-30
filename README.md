@@ -26,7 +26,6 @@ Aspiring Full Stack Developer • Information Technology Student
 | Back-end | Java, Spring Boot, Spring MVC | Hibernate, JPA | REST API |
 | Database | MySQL | Oracle SQL | Database Optimization |
 | Tools | Git, GitHub, Eclipse, MySQL Workbench | Figma, Postman | Docker |
-
 </div>
 
 ---
