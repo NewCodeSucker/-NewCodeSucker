@@ -70,13 +70,16 @@ A web-based management system developed to support collaboration between potato 
 
 ---
 
-## 📚 Activities and Training
+## 📜 Certificates & Training
 
-- Participated in Agile software development activities
-- Attended training on applying AI to market analysis
-- Used AI tools for product and service design
-- Developed a Smart Farm IoT training project for local farmers
-- Practiced collaborative software development and problem-solving
+| Course | Provider | Skills |
+|---------|----------|--------|
+| API 101 | Online Course | REST API, HTTP, API Design |
+| ChatGPT for Developers | Online Course | AI-assisted Development, Prompt Engineering, Debugging |
+| Agile Software Development | Workshop | Scrum, Team Collaboration |
+| AI for Market Analysis | Workshop | AI Tools, Product & Service Design |
+| Smart Farm IoT | Training Project | IoT, Sensors, Automation |
+
 
 ---
 
