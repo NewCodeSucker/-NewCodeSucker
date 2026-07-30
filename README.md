@@ -92,9 +92,8 @@ A web-based management system developed to support collaboration between potato 
 
 ## 📈 GitHub Stats
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=NewCodeSucker&show_icons=true&theme=github_dark"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NewCodeSucker&show_icons=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NewCodeSucker&layout=compact)
 
 ---
