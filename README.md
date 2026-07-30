@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I’m Whatcharaphon Kantadet <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<p align="center">
+  <strong>Aspiring Full Stack Developer • Information Technology Student</strong><br/>
+  <em>“ Passionate about building practical web applications that solve real-world problems.”</em>
+</p>
 
-Aspiring Full Stack Developer • Information Technology Student
 
-> Passionate about building practical web applications that solve real-world problems.
 
 ---
 
