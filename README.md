@@ -18,13 +18,15 @@ Aspiring Full Stack Developer • Information Technology Student
 ---
 
 ## 🧰 Tech Stack & Tools
-
+<div ailgn="center">
 | Domain | Primary | Comfortable | Currently Exploring |
 |---|---|---|---|
 | Front-end | HTML, CSS, Bootstrap, JSP | JavaScript | React |
 | Back-end | Java, Spring Boot, Spring MVC | Hibernate, JPA | REST API |
 | Database | MySQL | Oracle SQL | Database Optimization |
 | Tools | Git, GitHub, Eclipse, MySQL Workbench | Figma, Postman | Docker |
+
+</div>
 ---
 
 ## 📌 Featured Projects
