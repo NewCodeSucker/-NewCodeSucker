@@ -85,8 +85,8 @@ A web-based management system developed to support collaboration between potato 
 
 ## 📜 Certificates
 
-- 📄 [API 101 Certificate](certificates/api-101-certificate.pdf)
-- 📄 [ChatGPT for Developers Certificate](certificates/chatgpt-for-developers.pdf)
+- 📄 [API 101 Certificate](assets/api-101-certificate.pdf)
+- 📄 [ChatGPT for Developers Certificate](assets/chatgpt-for-developers.pdf)
   
 ---
 
