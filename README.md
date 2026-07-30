@@ -70,8 +70,8 @@ A web-based management system developed to support collaboration between potato 
 
 ---
 
-## 📜Training
-
+ ##📚 Activities and Training
+ 
 | Course | Provider | Skills |
 |---------|----------|--------|
 | API 101 | Online Course | REST API, HTTP, API Design |
